@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ENDOW
+title: Home
 ---
 
 
