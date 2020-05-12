@@ -1,2 +1,2 @@
-# endowproject-endow.github.io
+# endow.github.io
 ENDOW website
