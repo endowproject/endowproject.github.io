@@ -37,4 +37,11 @@
     ga('send', 'pageview');
   </script>
   {% endif %}
+  
+  {% if page.leafletmap %}	
+	<!-- Require Leaflet -->
+	{% include leaflet.html %}	
+	<!-- End Leaflet -->
+	{% endif %}
+  
 </head>
