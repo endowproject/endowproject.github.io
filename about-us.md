@@ -1,29 +1,18 @@
 ---
-layout: page
 title: About us
+layout: page
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+![(Photo credit: Scott Wagner)](Econ_Network_Dynamics_1.jpg)
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+We're a friendly group of researchers working (and based) around the world!
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Our Co-Directors are [Jeremy Koster](https://researchdirectory.uc.edu/p/kosterjy) and [Eleanor Power](https://eapower.github.io/). [Daniel Redhead](https://www.eva.mpg.de/ecology/staff/daniel-redhead/index.html) is our Assistant Director  and oversees the creation and maintenance of the ENDOW dataset. They are supported and advised by the other members of the Governing Board: [Monique Borgerhoff Mulder](https://anthropology.ucdavis.edu/people/fzborger), [Samuel Bowles](http://tuvalu.santafe.edu/~bowles/), and [Matthew Jackson](https://web.stanford.edu/~jacksonm/). 
 
-## Setup
+Over 40 researchers are collecting data for ENDOW from their fieldsites -- see the ENDOW Sites page for a full list! 
 
-Some fun facts about the setup of this project include:
+We are assisted in the massive task of managing the ENDOW dataset by researchers based in the [Department of Human Behavior, Ecology and Culture](https://www.eva.mpg.de/ecology/index.html) at the [Max Planck Institute for Evolutionary Anthropology](https://www.eva.mpg.de/index.html), with advice from [Silke Atmaca](https://www.eva.mpg.de/ecology/staff/silke-atmaca/index.html), [Bret Beheim](https://www.babeheim.com/), and [Richard McElreath](https://xcelab.net/rm/), and the essential efforts of a team of HIWIs (Anastassiya Bublikova, Enzo Lima, Nikkin Devaraju).
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+We are lucky to have been funded by the US [National Science Foundation](https://www.nsf.gov/) grant "The Effect of Social Networks on Inequality: A Longitudinal Cross-Cultural Investigation" (Award Number 1743019) through the [Interdisciplinary Behavioral and Social Science Research](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504832) (IBSS) competition. 
