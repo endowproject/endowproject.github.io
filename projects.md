@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ENDOW Projects
+title: Projects
 ---
 
 Many human societies and communities exhibit pronounced wealth inequality. When considering the possible determinants of this inequality, one possibility is that people leverage advantageous positions in their social networks to buffer economic risks and realize greater accruals of wealth over time. In community networks, for instance, it may be beneficial to be a connection between otherwise unconnected subgroups, where the ability to influence the flow of resources and information can be profitable. Alternatively, it may be advantageous to maintain connections to individuals and groups who themselves have few connections, entailing dependencies that can be exploited.
