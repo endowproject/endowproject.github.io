@@ -7,7 +7,7 @@ layout: page
 
 
 
-We're a friendly group of researchers working (and based) around the world!
+We are a collegial group of researchers working (and based) around the world.
 
 Our Co-Directors are [Jeremy Koster](https://researchdirectory.uc.edu/p/kosterjy) and [Eleanor Power](https://eapower.github.io/). [Daniel Redhead](https://www.eva.mpg.de/ecology/staff/daniel-redhead/index.html) is our Assistant Director and oversees the creation and maintenance of the ENDOW dataset. They are supported and advised by the other members of the Governing Board: [Monique Borgerhoff Mulder](https://anthropology.ucdavis.edu/people/fzborger), [Samuel Bowles](http://tuvalu.santafe.edu/~bowles/), and [Matthew Jackson](https://web.stanford.edu/~jacksonm/). 
 
