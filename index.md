@@ -3,11 +3,6 @@ layout: page
 title: "Home"
 ---
 
-![](public/favicon.ico)
-
-# The ENDOW Project
-
-
 The ENDOW project is a collaborative network of social scientists interested in cross-cultural comparative work.
 
 We are bringing together anthropologists and other social scientists working primarily in rural – and rapidly changing – communities around the world with research that explores key social and environmental dimensions of the human condition -- see the [fieldsites page](https://endowproject.github.io/fieldsites/) to see where we're working. 
