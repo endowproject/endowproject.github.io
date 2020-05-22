@@ -1,7 +1,10 @@
 ---
 layout: page
-title: Home
 ---
+
+![](public/favicon.ico)
+
+# The ENDOW Project
 
 
 The ENDOW project is a collaborative network of social scientists interested in cross-cultural comparative work.
