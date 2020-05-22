@@ -45,7 +45,7 @@ Mongolia	|	Byamba Ichinkhorloo
 Mozambique	|	John Ziker
 Namibia | [Brooke Scelza](http://bscelza.weebly.com/), [Sean Prall](https://sprall.github.io/)
 Namibia	|	Michael Schnegg
-Nicaragua	|	Jeremy Koster
+Nicaragua	|	[Jeremy Koster](https://www.eva.mpg.de/ecology/fieldwork/mayangna-and-miskito.html)
 Papua New Guinea	|	Michele Barnes
 Papua New Guinea	|	Gianluca Grimalda
 Peru	|	Kathy Oths
@@ -55,4 +55,4 @@ Russia	|	Drew Gerkey
 Suriname	|	Cole Tobin
 Tanzania	|	Emmanuel Maliti, Monique Borgerhoff Mulder
 Vanuatu	|	Siobhan Mattison, Adam Reynolds
-Zambia	|	Lisa Cliggett
+Zambia	|	Alli Harnish, Lisa Cliggett
