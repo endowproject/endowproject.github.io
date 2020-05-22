@@ -1,6 +1,6 @@
 ---
 layout: page
-title: null
+title: "Home"
 ---
 
 ![](public/favicon.ico)
