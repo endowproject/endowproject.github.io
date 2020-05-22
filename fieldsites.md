@@ -42,7 +42,7 @@ Mexico	|	Shane MacFarlan
 Mexico	|	Karen Kramer
 Mongolia	|	Daniel Murphy
 Mongolia	|	Byamba Ichinkhorloo
-Mozambique	|	John Ziker
+Mozambique	|	John Ziker, Karl Mertens
 Namibia | [Brooke Scelza](http://bscelza.weebly.com/), [Sean Prall](https://sprall.github.io/)
 Namibia	|	Michael Schnegg
 Nicaragua	|	[Jeremy Koster](https://www.eva.mpg.de/ecology/fieldwork/mayangna-and-miskito.html)
