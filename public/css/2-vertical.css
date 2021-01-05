@@ -1,0 +1,45 @@
+/* SAME DIMENSION FOR CONTAINER + SLIDES */
+.v-wrap, .v-slide {
+  box-sizing: border-box;
+  width: 100%;
+  height: 200px;
+}
+
+/* OUTER CONTAINER */
+.v-wrap {
+  background: #bddaed;
+  border: 1px solid #4F9FCF;
+  overflow: hidden; /* Hide scrollbars */
+}
+
+/* MIDDLE WRAPPER */
+.v-move {
+  position: relative;
+  bottom: 0%;
+}
+
+/* SLIDES */
+.v-slide { padding: 10px; }
+
+/* SLIDE ANIMATION MAGIC */
+@keyframes slidev {
+  /* Will use keyframes to shift the 5 slides *
+  0% { bottom: 0; }
+  20% { bottom: 100%; }
+  40% { bottom: 200%; }
+  60% { bottom: 300%; }
+  80% { bottom: 400%; }
+  100% { right: 0; }
+
+  /* BUT the above will be non-stop */
+  /* We want short pauses between each slide, so... */
+  0% { bottom: 0; }
+  15% { bottom: 0; }
+  20% { bottom: 100%; }
+  35% { bottom: 100%; }
+  40% { bottom: 200%; }
+  55% { bottom: 200%; }
+  100% { bottom: 0; }
+}
+.v-move { animation: slidev linear 25s infinite; }
+.v-move:hover { animation-play-state: paused; }
