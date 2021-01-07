@@ -7,8 +7,8 @@
 
 /* OUTER CONTAINER */
 .v-wrap {
-  background: #bddaed;
-  border: 1px solid #4F9FCF;
+  background: white;
+  border: 1px solid white;
   overflow: hidden; /* Hide scrollbars */
 }
 

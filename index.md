@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Home"
 ---
 ![](public/sites.png)
 
@@ -22,12 +21,12 @@ Watch this space for more on our work, and please reach out if you're interested
 .button {
   border: none;
   color: white;
-  padding: 20px 36px;
+  padding: 16px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 22px;
-  font-family: Helvetica;
+  font-size: 18px;
+  font-family: sans serif;
   position: absolute;
   left: 46%;
   margin-right: -54%;
@@ -54,14 +53,14 @@ Watch this space for more on our work, and please reach out if you're interested
 	<div class="features">
 		<article>
 			<div class="content">
-				<h3><i class="fas fa-bullhorn fa-fw" style="color:#4F9FCF;"></i><a href="{{ 'news' | absolute_url }}">News</a></h3>
+				<h3><i class="fas fa-bullhorn fa-fw" style="color:#4F9FCF;"></i><a href="https://endowproject.github.io/news/">News</a></h3>
 				<p>Read about our newest activities!</p>
 			</div>
 		</article>
 	</div>
 </section>
 
-<h3><i class="fas fa-book-open fa-fw" style="color:#4F9FCF;"></i><a href="{{ 'publications' | absolute_url }}">Publications</a></h3>
+<h3><i class="fas fa-book-open fa-fw" style="color:#4F9FCF;"></i><a href="https://endowproject.github.io/publications/">Publications</a></h3>
 <div class="v-wrap"><div class="v-move">
 	<div class="v-slide">
 		<p>
