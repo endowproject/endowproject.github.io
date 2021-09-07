@@ -26,7 +26,7 @@ Watch this space for more on our work, and please reach out if you're interested
   text-decoration: none;
   display: inline-block;
   font-size: 18px;
-  font-family: sans serif;
+  font-family: Sans-Serif;
   position: absolute;
   left: 46%;
   margin-right: -54%;
