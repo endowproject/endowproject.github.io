@@ -5,6 +5,8 @@ title: Publications
 
 In addition to our planned cross-cultural comparisons, ENDOW team members are drawing on data gathered as part of the ENDOW project in their own research. Here are some of the publications that have drawn upon ENDOW data:
 
+- Mattison, S.M., MacLaren N.G., Liu R., Reynolds A.Z., Baca G.D., Mattison P.M., Zhang M., Sum C.Y., Shenk M.K., Blumenfield T., von Rueden C. (2021). [Gender differences in social networks based on prevailing kinship norms in the Mosuo of China](https://www.mdpi.com/2076-0760/10/7/253). Social Sciences 7:253.
+
 - Beitl, C.M., Chávez Páez,W., Vanegas Redondo, W.F., Carvajal Cañarte, E.L., Zambrano Mohauad, G.A.,Ramírez Alfonso, K.R., Jama López, J.A., and Gortaire Díaz, D.E,. (2020). [Cambiosambientales, alimentación y sustento en una comunidad rural del manglar](DOI:https://doi.org/10.31095/investigatio.2020.13.9). Investigacio: Research Review. 13:89-102.
 
 - Barnes, M. L., Wang, P., Cinner, J. E., Graham, N. A. J., Guerrero, A. M., Jasny, L., Lau, J., Sutcliffe, S. R., & Zamborain-Mason, J. (2020). [Social determinants of adaptive and transformative responses to climate change](https://doi.org/10.1038/s41558-020-0871-4). Nature Climate Change, 1–6. 
