@@ -15,7 +15,7 @@ In addition to our planned cross-cultural comparisons, ENDOW team members are dr
 
 - Macfarlan S.J., Schacht R., Schniter E., Garcia J.J., Guevara Beltran D., Lerback J. (2020). [The role of dispersal and school attendance on reproductive dynamics in small, dispersed populations: Choyeros of Baja California Sur, Mexico.](https://doi.org/10.1371/journal.pone.0239523) PLoS One 15(10):e0239523. 
 
-- Tucker, B. (2019). [Ecological, historical, and social explanations for low rates of food sharing among Mikea foragers of Southwest Madagascar.](https://www.repository.cam.ac.uk/bitstream/handle/1810/300122/Hunter_Gatherer_Sharing_s_Chapter17.pdf?sequence=1) In D. Friesem & N. Lavi (eds)., Towards a Broader View of HunterGatherer Sharing (pp. 237-50). Cambridge: McDonald Institute for Archaeological Research, University of
+- Tucker, B. (2019). [Ecological, historical, and social explanations for low rates of food sharing among Mikea foragers of Southwest Madagascar.](https://www.repository.cam.ac.uk/bitstream/handle/1810/300122/Hunter_Gatherer_Sharing_s_Chapter17.pdf?sequence=1) In D. Friesem & N. Lavi (eds)., Towards a Broader View of Hunter-Gatherer Sharing (pp. 237-50). Cambridge: McDonald Institute for Archaeological Research, University of
 Cambridge.
 
 - Koster, J., Lukas, D., Nolin, D., Power, E. A., Alvergne, A., Mace, R., Ross, C. T., Kramer, K., Greaves, R., Caudell, M., Macfarlan, S., Schniter, E., Quinlan, R., Mattison, S., Reynolds, A., Yi-Sum, C., & Massengill, E. (2019). [Kinship ties across the lifespan in human communities](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2018.0069). Philosophical Transactions of the Royal Society B: Biological Sciences, 374(1780), 20180069.
