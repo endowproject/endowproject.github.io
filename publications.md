@@ -9,7 +9,7 @@ In addition to our planned cross-cultural comparisons, ENDOW team members are dr
 
 - Schniter E., Macfarlan S.J., Garcia J.J., Ruiz-Campos G., Beltran D.G., Bowen B.B., Lerback J.C. 2021. Age appropriate wisdom? [Ethnobiological knowledge ontogeny in Pastoralist Mexico.](https://doi.org/10.1007/s12110-021-09387-8) Human Nature 32:48–83.
 
-- Beitl, C.M., Chávez Páez,W., Vanegas Redondo, W.F., Carvajal Cañarte, E.L., Zambrano Mohauad, G.A.,Ramírez Alfonso, K.R., Jama López, J.A., and Gortaire Díaz, D.E,. (2020). [Cambiosambientales, alimentación y sustento en una comunidad rural del manglar](DOI:https://doi.org/10.31095/investigatio.2020.13.9). Investigacio: Research Review. 13:89-102.
+- Beitl, C.M., Chávez Páez,W., Vanegas Redondo, W.F., Carvajal Cañarte, E.L., Zambrano Mohauad, G.A.,Ramírez Alfonso, K.R., Jama López, J.A., and Gortaire Díaz, D.E,. (2020). [Cambiosambientales, alimentación y sustento en una comunidad rural del manglar](https://doi.org/10.31095/investigatio.2020.13.9). Investigacio: Research Review. 13:89-102.
 
 - Barnes, M. L., Wang, P., Cinner, J. E., Graham, N. A. J., Guerrero, A. M., Jasny, L., Lau, J., Sutcliffe, S. R., & Zamborain-Mason, J. (2020). [Social determinants of adaptive and transformative responses to climate change](https://doi.org/10.1038/s41558-020-0871-4). Nature Climate Change, 1–6.
 
