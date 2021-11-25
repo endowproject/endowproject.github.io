@@ -9,7 +9,7 @@ In addition to our planned cross-cultural comparisons, ENDOW team members are dr
 
 - Mattison, S.M., MacLaren N.G., Liu R., Reynolds A.Z., Baca G.D., Mattison P.M., Zhang M., Sum C.Y., Shenk M.K., Blumenfield T., von Rueden C. (2021). [Gender differences in social networks based on prevailing kinship norms in the Mosuo of China.](https://www.mdpi.com/2076-0760/10/7/253) Social Sciences 7:253.
 
-- Schniter E., Macfarlan S.J., Garcia J.J., Ruiz-Campos G., Beltran D.G., Bowen B.B., Lerback J.C. (2021). Age appropriate wisdom? [Ethnobiological knowledge ontogeny in Pastoralist Mexico.](https://doi.org/10.1007/s12110-021-09387-8) Human Nature 32:48–83.
+- Schniter E., Macfarlan S.J., Garcia J.J., Ruiz-Campos G., Beltran D.G., Bowen B.B., Lerback J.C. (2021). [Age appropriate wisdom? Ethnobiological knowledge ontogeny in Pastoralist Mexico.](https://doi.org/10.1007/s12110-021-09387-8) Human Nature 32:48–83.
 
 - Beitl, C.M., Chávez Páez, W., Vanegas Redondo, W.F., Carvajal Cañarte, E.L., Zambrano Mohauad, G.A.,Ramírez Alfonso, K.R., Jama López, J.A., and Gortaire Díaz, D.E,. (2020). [Cambios socio-ambientales, alimentación y sustento en una comunidad rural del Manglar.](https://doi.org/10.31095/investigatio.2020.13.9) Investigacio: Research Review. 13:89-102.
 
