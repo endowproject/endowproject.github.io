@@ -7,7 +7,7 @@ In addition to our planned cross-cultural comparisons, ENDOW team members are dr
 
 - Padilla Iglesias, C. and Kramer, K.L. 2021. [The role of language in structuring social networks following market integration in a Yucatec Maya population.](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.656963/full) Frontiers in Psychology 5628.
 
-- Hackman, J.V., Kramer, K.L., 2021. [Kin Ties and Market Integration in a Yucatec Mayan Village.](https://www.mdpi.com/2076-0760/10/6/216) Social Sciences 10:216.
+- Hackman, J.V., Kramer, K.L., 2021. [Kin ties and market integration in a Yucatec Mayan village.](https://www.mdpi.com/2076-0760/10/6/216) Social Sciences 10:216.
 
 - Mattison, S.M., MacLaren N.G., Liu R., Reynolds A.Z., Baca G.D., Mattison P.M., Zhang M., Sum C.Y., Shenk M.K., Blumenfield T., von Rueden C. (2021). [Gender differences in social networks based on prevailing kinship norms in the Mosuo of China.](https://www.mdpi.com/2076-0760/10/7/253) Social Sciences 7:253.
 
