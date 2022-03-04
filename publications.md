@@ -5,6 +5,7 @@ title: Publications
 
 In addition to our planned cross-cultural comparisons, ENDOW team members are drawing on data gathered as part of the ENDOW project in their own research. Here are some of the publications that have drawn upon ENDOW data:
 
+=======
 - Padilla Iglesias, C. and Kramer, K.L. 2021. [The role of language in structuring social networks following market integration in a Yucatec Maya population.](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.656963/full) Frontiers in Psychology 5628.
 
 - Hackman, J.V., Kramer, K.L., 2021. [Kin ties and market integration in a Yucatec Mayan village.](https://www.mdpi.com/2076-0760/10/6/216) Social Sciences 10:216.
