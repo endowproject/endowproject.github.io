@@ -6,7 +6,7 @@ title: Publications
 In addition to our planned cross-cultural comparisons, ENDOW team members are drawing on data gathered as part of the ENDOW project in their own research. Here are some of the publications that have drawn upon ENDOW data:
 
 =======
-- Prall, S. and Scelza, B. 2022. [The dietary impacts of drought in a traditional pastoralist economy.](https://onlinelibrary-wiley-com.uc.idm.oclc.org/doi/10.1002/ajhb.23803) American Journal of Human Biology.
+- Prall, S. and Scelza, B. 2022. [The dietary impacts of drought in a traditional pastoralist economy.](https://doi.org/10.1002/ajhb.23803) American Journal of Human Biology.
 
 - Padilla Iglesias, C. and Kramer, K.L. 2021. [The role of language in structuring social networks following market integration in a Yucatec Maya population.](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.656963/full) Frontiers in Psychology 5628.
 
