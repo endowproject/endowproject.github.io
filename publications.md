@@ -6,6 +6,13 @@ title: Publications
 In addition to our planned cross-cultural comparisons, ENDOW team members are drawing on data gathered as part of the ENDOW project in their own research. Here are some of the publications that have drawn upon ENDOW data:
 
 =======
+
+- Starkweather, K.E., Reynolds, A.Z., Zohora, F., Alam, N. 2022. [Shodagor women cooperate across domains of work and childcare to solve an adaptive problem](https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0433) Philosophical Transactions of the Royal Society B. 378:20210433.
+
+- Mattison, S. MacLaren, N.G., Sum, C., Shenk, M.K., Blumenfield, T., Wander, K. 2022. [Does gender structure social networks across domains of cooperation? An exploration of gendered networks among matrilineal and patrilineal Mosuo.](https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0436) Philosophical Transactions of the Royal Society B. 378:20210436.
+
+- Simpson, C., Power, E. 2022. [Dynamics of cooperative networks associated with gender among South Indian Tamils.] (https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0437) Philosophical Transactions of the Royal Society B. 378:20210437.
+
 - Redhead, D., Dalla Ragione, A, Ross, C.T. 2022. [Friendship and Partner Choice in Rural Colombia.](https://www.sciencedirect.com/science/article/abs/pii/S1090513822000484) Evolution and Human Behavior.
 
 - Prall, S. and Scelza, B. 2022. [The dietary impacts of drought in a traditional pastoralist economy.](https://doi.org/10.1002/ajhb.23803) American Journal of Human Biology.
