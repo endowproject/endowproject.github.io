@@ -6,6 +6,7 @@ title: Publications
 In addition to our planned cross-cultural comparisons, ENDOW team members are drawing on data gathered as part of the ENDOW project in their own research. Here are some of the publications that have drawn upon ENDOW data:
 
 =======
+- Gettler, L.T., Redhead, D., Dzabatou, A., Lew-Levy, S. 2023. [BaYaka forager food sharing networks in the Congo Basin: The roles of gender homophily and kin sharing](https://onlinelibrary.wiley.com/doi/10.1002/ajpa.24688) American Journal of Biological Anthropology. 24688.
 
 - Starkweather, K.E., Reynolds, A.Z., Zohora, F., Alam, N. 2022. [Shodagor women cooperate across domains of work and childcare to solve an adaptive problem](https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0433) Philosophical Transactions of the Royal Society B. 378:20210433.
 
