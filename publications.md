@@ -28,7 +28,7 @@ In addition to our planned cross-cultural comparisons, ENDOW team members are dr
 
 - Beitl, C.M., Chávez Páez, W., Vanegas Redondo, W.F., Carvajal Cañarte, E.L., Zambrano Mohauad, G.A.,Ramírez Alfonso, K.R., Jama López, J.A., and Gortaire Díaz, D.E,. (2020). [Cambios socio-ambientales, alimentación y sustento en una comunidad rural del Manglar.](https://doi.org/10.31095/investigatio.2020.13.9) Investigacio: Research Review. 13:89-102.
 
-- Barnes, M. L., Wang, P., Cinner, J. E., Graham, N. A. J., Guerrero, A. M., Jasny, L., Lau, J., Sutcliffe, S. R., & Zamborain-Mason, J. (2020). [Social determinants of adaptive and transformative responses to climate change.](https://doi.org/10.1038/s41558-020-0871-4) Nature Climate Change, 1–6.
+- Barnes, M. L., Wang, P., Cinner, J. E., Graham, N. A. J., Guerrero, A. M., Jasny, L., Lau, J., Sutcliffe, S. R., & Zamborain-Mason, J. (2020). [Social determinants of adaptive and transformative responses to climate change.](https://doi.org/10.1038/s41558-020-0871-4) Nature Climate Change 10:823–828. 
 
 - Macfarlan S.J., Schacht R., Schniter E., Garcia J.J., Guevara Beltran D., Lerback J. (2020). [The role of dispersal and school attendance on reproductive dynamics in small, dispersed populations: Choyeros of Baja California Sur, Mexico.](https://doi.org/10.1371/journal.pone.0239523) PLoS One 15(10):e0239523. 
 
