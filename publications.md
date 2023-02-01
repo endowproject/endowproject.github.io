@@ -8,7 +8,7 @@ In addition to our planned cross-cultural comparisons, ENDOW team members are dr
 =======
 - Gettler, L.T., Redhead, D., Dzabatou, A., Lew-Levy, S. 2023. [BaYaka forager food sharing networks in the Congo Basin: The roles of gender homophily and kin sharing](https://onlinelibrary.wiley.com/doi/10.1002/ajpa.24688) American Journal of Biological Anthropology. 24688.
 
-- Prall, S. and Scelza, B. 2023. [The dietary impacts of drought in a traditional pastoralist economy.](https://doi.org/10.1002/ajhb.23803) American Journal of Human Biology 35: e23803.
+- Prall, S. and Scelza, B. 2023. [The dietary impacts of drought in a traditional pastoralist economy.](https://doi.org/10.1002/ajhb.23803) American Journal of Human Biology 35:e23803.
 
 - Starkweather, K.E., Reynolds, A.Z., Zohora, F., Alam, N. 2022. [Shodagor women cooperate across domains of work and childcare to solve an adaptive problem](https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0433) Philosophical Transactions of the Royal Society B. 378:20210433.
 
