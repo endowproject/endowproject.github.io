@@ -6,9 +6,9 @@ title: Publications
 In addition to our planned cross-cultural comparisons, ENDOW team members are drawing on data gathered as part of the ENDOW project in their own research. Here are some of the publications that have drawn upon ENDOW data:
 
 =======
-- Redhead, D., Maliti, E., Andrews, J.B. and Borgerhoff Mulder, M., 2023. [The interdependence of relational and material wealth inequality in Pemba, Zanzibar.](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2022.0288) Philosophical Transactions of the Royal Society B, 378, p.20220288.
+- Redhead, D., Maliti, E., Andrews, J.B. and Borgerhoff Mulder, M., 2023. [The interdependence of relational and material wealth inequality in Pemba, Zanzibar.](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2022.0288) Philosophical Transactions of the Royal Society B, 378, 20220288.
 
-- Gettler, L.T., Redhead, D., Dzabatou, A., Lew-Levy, S. 2023. [BaYaka forager food sharing networks in the Congo Basin: The roles of gender homophily and kin sharing.](https://onlinelibrary.wiley.com/doi/10.1002/ajpa.24688) American Journal of Biological Anthropology. 24688.
+- Gettler, L.T., Redhead, D., Dzabatou, A., Lew-Levy, S. 2023. [BaYaka forager food sharing networks in the Congo Basin: The roles of gender homophily and kin sharing.](https://onlinelibrary.wiley.com/doi/10.1002/ajpa.24688) American Journal of Biological Anthropology 181:59-69.
 
 - Prall, S. and Scelza, B. 2023. [The dietary impacts of drought in a traditional pastoralist economy.](https://doi.org/10.1002/ajhb.23803) American Journal of Human Biology 35:e23803.
 
