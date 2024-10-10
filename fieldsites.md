@@ -13,6 +13,7 @@ leafletmap: true
 Country | Researcher(s)
  --- |---
 Angola | Helen Davis
+Argentina | Madalena Monteban, Juan Pablo Ferreiro, Federico Fernandez
 Bangladesh | Mary Shenk
 Bangladesh | Katie Starkweather
 Belize | Sean Downey
@@ -20,31 +21,38 @@ Bolivia	|	Ed Seabright
 Bolivia | Bret Beheim
 Brazil |	Rafael Morais Chiaravalloti
 Burkina Faso | Colin West
-China	|	Siobhan Mattison, Adam Reynolds
+China	|	Siobhan Cully
 China	|	Madeline Brown
+China	|	Ruizhe Liu
 Colombia	|	Cody Ross
 Dominica	|	Emily Post
 Ecuador	|	Christine Beitl
+Ecuador	|	Eric Jones
 Ecuador	|	Lawrence Sugiyama
 Ethiopia	|	Mark Caudell
 Ethiopia	|	Scott Calvert
 Fiji	|	Matthew Gervais
 Guyana	|	Curtis Atkisson
 Haiti	|	Ang Demarco
+India	|	Alex Alvergne, B. Langstieh
 India | Eleanor Power
-India	|	Alex Alvergne
+India | Komal Chauhan
 Indonesia	|	Geoff Kushnick
 Kenya	|	Mark Caudell
 Madagascar	|	Bram Tucker
-Madagascar	|	Bapu Vaitla
+Madagascar	|	Bapu Vaitla, Christopher Golden
 Malawi	|	Joe Lanning
+Malaysia | Vivek Venkataraman
 Mexico	|	Shane MacFarlan
 Mexico	|	Karen Kramer
+Mexico	|	Werner Hertzog
 Mongolia	|	Daniel Murphy
 Mongolia	|	Byamba Ichinkhorloo
+Morocco	|	Sarah Alami
 Mozambique	|	John Ziker, Karl Mertens
 Namibia | Brooke Scelza, Sean Prall
 Namibia	|	Michael Schnegg
+Nepal | Ivan Deschenaux
 Nicaragua	|	Jeremy Koster
 Papua New Guinea	|	Michele Barnes
 Papua New Guinea	|	Gianluca Grimalda
@@ -54,5 +62,5 @@ Republic of the Congo	|	Sheina Lew-Levy
 Russia	|	Drew Gerkey
 Suriname	|	Cole Tobin
 Tanzania	|	Emmanuel Maliti, Monique Borgerhoff Mulder
-Vanuatu	|	Siobhan Mattison, Adam Reynolds
-Zambia	|	Alli Harnish, Lisa Cliggett
+Vanuatu	|	Siobhan Cully
+Zambia	|	Allison Harnish, Lisa Cliggett
