@@ -6,7 +6,9 @@ title: Publications
 In addition to our planned cross-cultural comparisons, ENDOW team members are drawing on data gathered as part of the ENDOW project in their own research. Here are some of the publications that have drawn upon ENDOW data:
 
 =======
-- Murphy, D.J., and Ichinkhorloo, B. 2023. [Index insurance and the moral economy of pastoral risk management in Mongolia.](https://www.tandfonline.com/doi/full/10.1080/03066150.2023.2284972) The Journal of Peasant Studies (in press).
+- Murphy, D., Munkhochir, S., Bayartogtokh,  Ts., and Byambabaatar, I. (In press). “Between Khot (City) and Khuduu (Country): Negotiating Rural and Urban Identities in Post-Covid Mongolia”. In G. Munkherdene and A. Ahearn, eds. _Rural Transitions in post-pandemic Mongolia and Kyrgyzstan_. White Horse Press: Oxford.
+
+- Murphy, D.J., and Ichinkhorloo, B. 2024. [Index insurance and the moral economy of pastoral risk management in Mongolia.](https://www.tandfonline.com/doi/full/10.1080/03066150.2023.2284972) The Journal of Peasant Studies, 51, 1185-1207.
 
 - Redhead, D., Maliti, E., Andrews, J.B. and Borgerhoff Mulder, M., 2023. [The interdependence of relational and material wealth inequality in Pemba, Zanzibar.](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2022.0288) Philosophical Transactions of the Royal Society B, 378, 20220288.
 
