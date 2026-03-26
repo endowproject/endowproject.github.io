@@ -6,7 +6,13 @@ title: Publications
 In addition to our planned cross-cultural comparisons, ENDOW team members are drawing on data gathered as part of the ENDOW project in their own research. Here are some of the publications that have drawn upon ENDOW data:
 
 =======
-- Murphy, D., Munkhochir, S., Bayartogtokh,  Ts., and Byambabaatar, I. (In press). “Between Khot (City) and Khuduu (Country): Negotiating Rural and Urban Identities in Post-Covid Mongolia”. In G. Munkherdene and A. Ahearn, eds. _Rural Transitions in post-pandemic Mongolia and Kyrgyzstan_. White Horse Press: Oxford.
+- Hwang, J., MacLaren, N., Nolin, D., Cully, S., Alam, N., & Shenk, M. (2025). [Reciprocal exchanges across multilayered networks show an emerging patron-client system led by salaried households](https://doi.org/10.2139/ssrn.5093971) (SSRN Scholarly Paper No. 5093971). Social Science Research Network.
+
+- Hwang, J. (2025). [Reciprocity, risk, and inequality in rural Bangladesh: A multiplex analysis of social support](https://www.proquest.com/dissertations-theses/reciprocity-risk-inequality-rural-bangladesh/docview/3266811597/se-2?accountid=9630). [Doctoral Dissertation, The Pennsylvania State University].
+
+- Mertens, K. J. (2025). [Social and economic gradients of resource transfer behavior in Gorongosa, Mozambique](https://www.proquest.com/dissertations-theses/social-economic-gradients-resource-transfer/docview/3292887716/se-2). [Doctoral Dissertation, Boise State University].
+
+- Murphy, D., Munkhochir, S., Bayartogtokh,  Ts., and Byambabaatar, I. (2025). "[Between Khot (City) and Khuduu (Country): Negotiating Rural and Urban Identities in Post-Covid Mongolia](https://library.oapen.org/bitstream/handle/20.500.12657/110839/9781912186921.pdf?sequence=1#page=216)". In G. Munkherdene and A. Ahearn, eds. _Rural Transitions in post-pandemic Mongolia and Kyrgyzstan_. White Horse Press: Oxford. pp. 200-219.
 
 - Murphy, D.J., and Ichinkhorloo, B. 2024. [Index insurance and the moral economy of pastoral risk management in Mongolia.](https://www.tandfonline.com/doi/full/10.1080/03066150.2023.2284972) The Journal of Peasant Studies, 51, 1185-1207.
 

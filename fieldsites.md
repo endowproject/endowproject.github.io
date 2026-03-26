@@ -17,6 +17,7 @@ Argentina | Madalena Monteban, Juan Pablo Ferreiro, Federico Fernandez
 Bangladesh | Mary Shenk
 Bangladesh | Katie Starkweather
 Belize | Sean Downey
+Benin | Augusto Dalla Ragione
 Bolivia	|	Ed Seabright
 Bolivia | Bret Beheim
 Brazil |	Rafael Morais Chiaravalloti
