@@ -3,6 +3,8 @@ layout: page
 title: News
 ---
 
+- **January 2026**: We're excited to have secured additional funding for the ENDOW project, via [a joint funding scheme](https://www.nsf.gov/funding/opportunities/sbe-ukri-sbe-ukri-lead-agency-opportunity) by the US National Science Foundation and the UK Research and Innovation Economic and Social Research Council (ESRC)!
+
 - **April 2025**: Eleanor Power presented some of our preliminary findings from the ENDOW project at a [NetSci Colloquium](https://netscisociety.net/events/colloquium/fg7JsObJJUyKXPZyS1FLmg/%2Feleanor-power).
 
 - **May 2024**: We're very happy to be welcoming [Justin Weltz](https://www.santafe.edu/people/profile/justin-weltz) to the ENDOW team. He will be joining as an EPE and Applied Complexity Postdoctoral Fellow at the Santa Fe Institute, as part of the [Emergent Political Economies](https://www.santafe.edu/info/epe/home) program, helping to develop the network models at the core of the ENDOW project. 
