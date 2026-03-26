@@ -10,7 +10,7 @@ In addition to our planned cross-cultural comparisons, ENDOW team members are dr
 
 - Murphy, D.J., and Ichinkhorloo, B. 2024. [Index insurance and the moral economy of pastoral risk management in Mongolia.](https://www.tandfonline.com/doi/full/10.1080/03066150.2023.2284972) The Journal of Peasant Studies, 51, 1185-1207.
 
-- Kramer, K.L., and Hackman, J.V. 2023. [Small-scale farmer responses to the double exposure of climate change and market integration.](https://royalsocietypublishing.org/rstb/article/378/1889/20220396/109344) Philosophical Tranactions of the Roay Society B, 378, 20220396.
+- Kramer, K.L., and Hackman, J.V. 2023. [Small-scale farmer responses to the double exposure of climate change and market integration.](https://royalsocietypublishing.org/rstb/article/378/1889/20220396/109344) Philosophical Transactions of the Roay Society B, 378, 20220396.
 
 - Redhead, D., Maliti, E., Andrews, J.B. and Borgerhoff Mulder, M., 2023. [The interdependence of relational and material wealth inequality in Pemba, Zanzibar.](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2022.0288) Philosophical Transactions of the Royal Society B, 378, 20220288.
 
