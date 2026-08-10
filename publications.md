@@ -6,6 +6,10 @@ title: Publications
 In addition to our planned cross-cultural comparisons, ENDOW team members are drawing on data gathered as part of the ENDOW project in their own research. Here are some of the publications that have drawn upon ENDOW data:
 
 =======
+- Hwang, J., MacLaren, N. G., Nolin, D., Cully, S., Alam, N., & Shenk, M. K. (2026). [Reciprocal exchanges across multilayered networks show an emerging patron–client system led by salaried households](https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/reciprocal-exchanges-across-multilayered-networks-show-an-emerging-patronclient-system-led-by-salaried-households/B66D749C8205793778BFA6C1AC2877B8). Evolutionary Human Sciences, 8, e29.
+
+- Hwang, J., Alam, N., & Shenk, M. K. (2026). [Social capital is associated with both risk-taking and risk-avoidance in rural Bangladesh](https://www.sciencedirect.com/science/article/pii/S1090513826001029). Evolution and Human Behavior, 47(5), 106923.
+
 - Murphy, D., Munkhochir, S., Bayartogtokh,  Ts., and Byambabaatar, I. (2026). "[Between _Khot_ (City) and _Khuduu_ (Country): Negotiating Rural and Urban Identities in Post-Covid Mongolia](https://library.oapen.org/bitstream/handle/20.500.12657/110839/9781912186921.pdf?sequence=1#page=216)". In G. Munkherdene and A. Ahearn, eds. pp. 200-219. _Rural Transitions in post-pandemic Mongolia and Kyrgyzstan_. White Horse Press: Oxford.
 
 - Hwang, J., MacLaren, N., Nolin, D., Cully, S., Alam, N., & Shenk, M. (2025). [Reciprocal exchanges across multilayered networks show an emerging patron-client system led by salaried households](https://doi.org/10.2139/ssrn.5093971) (SSRN Scholarly Paper No. 5093971). Social Science Research Network.
